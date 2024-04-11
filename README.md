@@ -1,10 +1,20 @@
 ### Hi there 👋
 
+My Name is Ethan Himmell, and I love Computer Science. I taught myself how to code in Middle School and ever since, one of my favorite hobbies has been to create projects, both fun and useful, to apply new skills I've learned or new technologies I've been working with.
+
+My background includes foundational skills in languages like Java, JavaScript, Python, and SalesForce Apex. More recently, I've been learning about Android Studio, TensorFlow, and general AI Model Training. I've made sure to put these skills to good use through projects like my AI Rock Paper Scissors App, which is housed on GitHub in the AIRockPaperScissorsApp Repo.
+
+Right now, I'm staying active with my skills through a combination of new projects and LeetCode. I started LeetCoding only recently, but I love the ability to write algorithms that both reinforce the concept of creation from Intuition and teach me new skills to use on future problems. I try my best to do 2-3 new exercises every day, which you can find my solutions to on my linked LeetCode profile. As far as projects go, I hope to continue my streak of AI work soon by creatinga stock prediction AI Model.
+
+Most days, you'll find me either at school, working, at the gym, outside, or coding away on new projects, etc. I have a busy schedule, but I work hard to balance it out through hanging out with friends and some of my more recreational hobbies like fishing, golf, or legos.
+
+Looking to contact me or collaborate? You can reach me through my LinkedIn profile or my email, himmellethan@gmail.com. Hope to hear from you soon!
+
+-Ethan
 <!--
 **Ehimmell/Ehimmell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
