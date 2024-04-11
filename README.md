@@ -6,7 +6,7 @@ My background includes foundational skills in languages like Java, JavaScript, P
 
 Right now, I'm staying active with my skills through a combination of new projects and LeetCode. I started LeetCoding only recently, but I love the ability to write algorithms that reinforce the concept of creation from intuition as well as teach me new skills to use on future problems. I try my best to do 2-3 new exercises every day, which you can find my solutions to on my linked LeetCode profile. As far as projects go, I hope to continue my streak of AI work soon by creatinga stock prediction AI Model.
 
-Most days, you'll find me either at school, working, at the gym, outside, or coding away on new projects, etc. I have a busy schedule, but I work hard to balance it out through hanging out with friends and some of my more recreational hobbies like fishing, golf, or legos.
+Most days, you'll find me either at school or work, at the gym, outside, or coding away on new projects. I have a busy schedule, but I work hard to balance it out through hanging out with friends and some of my more recreational hobbies like fishing, golf, or legos.
 
 Looking to contact me or collaborate? You can reach me through my LinkedIn profile or my email, himmellethan@gmail.com. Hope to hear from you soon!
 
