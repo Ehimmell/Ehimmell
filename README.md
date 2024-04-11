@@ -2,9 +2,9 @@
 
 My Name is Ethan Himmell, and Computer Science is my passion. I taught myself Java in Middle School and ever since, one of my favorite hobbies has been to create projects, both fun and applicable, to utilize new skills I've learned or new technologies I've been working with.
 
-My background includes fluency in Java, JavaScript, Python, and SalesForce Apex. More recently, I've been learning about Android Studio, TensorFlow, and general AI Model Training. I've made sure to put these skills to good use through projects like my AI Rock Paper Scissors App, which is housed on GitHub in the AIRockPaperScissorsApp repo.
+My background includes fluency in Java, JavaScript, Python, and SalesForce Apex. More recently, I've been learning about Android Studio, TensorFlow, and general AI Model Training. I've made sure to put these skills to good use through projects like my AI Rock Paper Scissors App, which is housed on GitHub in the AIImageRecognition repo.
 
-Right now, I'm improving my skills through a combination of new projects and LeetCode. I started LeetCoding only recently, but I already enjoy the ability to write algorithms that reinforce the concept of creation from intuition as well as teach me new skills to use on future problems. I strive to complete 2-3 new exercises every day, which you can find my solutions to on my linked LeetCode profile. As far as projects go, I hope to continue my streak of AI work soon by creatinga stock prediction AI Model.
+Right now, I'm improving my skills through a combination of new projects and LeetCode. I started LeetCoding only recently, but I already enjoy the ability to write algorithms that reinforce the concept of creation from intuition as well as teach me new skills to use on future problems. I strive to complete 2-3 new exercises every day, which you can find my solutions to on my linked LeetCode profile. As far as projects go, I hope to continue my streak of AI work soon by creating a stock prediction AI Model.
 
 Most days, you'll find me either at school, work, the gym, outside, or coding away on new projects. I have a busy schedule, but I work hard to balance it out through hanging out with friends and some of my more recreational hobbies like fishing, golf, or legos.
 
