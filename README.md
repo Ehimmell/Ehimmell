@@ -1,24 +1,13 @@
-### Hi there 👋
+### Ethan Himmell
 
-My Name is Ethan Himmell, and Computer Science is my passion. I taught myself Java in Middle School and ever since, one of my favorite hobbies has been to create projects, both fun and applicable, to utilize new skills I've learned or new technologies I've been working with.
+Hi, I'm Ethan, a student at Purdue University studying Artificial Intelligence under the Department of Computer Science. I'm also a returning Software/Data Engineering intern at State Farm and an undergraduate ML+DS researcher at Purdue's Data Mine in collaboration with Sandia National Laboratories.
 
-My background includes fluency in Java, JavaScript, Python, and SalesForce Apex. More recently, I've been learning about React, TensorFlow, Pytorch, and general AI Model Training. I've made sure to put these skills to good use through projects like infoS&P, a stock market learning website that uses AI predictions to help users learn patterns and trends in the market.  check out the first version here: http://learn.infosandp.com
+I'm interested in all things Computer Science related. I work with Machine Learning tech like PyTorch, TensorFlow, pandas, numpy, and other DS libraries frequently and am familiar with frontend tech like HTML/CSS/JS, React, and Angular, as well as backend resources such as Django, Flask, Express, and Springboot. I'm also a big Leetcoder and know a lot about common algorithms.
 
-Most days, you'll find me either at work or coding away on new projects. I have a busy schedule, but I work hard to balance it out through hanging out with friends and some of my more recreational hobbies like fishing, golf, or legos.
+I've worked on a few cool projects, like my 2023 State Farm Hack Day winner bike-tastrophe. Made in collaboration with other State Farm interns, it's an Android App designed to help identify if the user has been in a bike crash and alert authorities. I've also been focused on a contributing to a new system that predicts the destinations of in air flights that is a joint project between Purdue's Data Mine and Sandia National labs.
 
-Looking to contact me or collaborate? You can reach me through my LinkedIn profile or my email, himmellethan@gmail.com. Hope to hear from you soon!
+When I'm not coding, I like building things like Legos, golfing, fishing, working out, cooking, hanging out with friends, and more. I strive to create a healthy balance between studies and fun that promotes an interest in both areas.
 
--Ethan
-<!--
-**Ehimmell/Ehimmell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you want to reach me, feel free to send me an email at ehimmell@purdue.edu. I'm open to projects, work opportunities, research, and pretty much everything else CS related. I look forward to hearing from you.
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Ethan 
