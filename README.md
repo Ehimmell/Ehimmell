@@ -1,13 +1,9 @@
 ### Ethan Himmell
 
-Hi, I'm Ethan, a student at Purdue University studying Artificial Intelligence under the Department of Computer Science. I'm also a returning Software/Data Engineering intern at State Farm and an undergraduate ML+DS researcher at Purdue's Data Mine in collaboration with Sandia National Laboratories.
+Hi, I'm Ethan, a student at University of Illinois Urbana Champaign studying Computer Science and Philosophy. I love coding, AI, and making cool projects that showcase my interests and help me grow.
 
-I'm interested in all things Computer Science related. I work with Machine Learning tech like PyTorch, TensorFlow, pandas, numpy, and other DS libraries frequently and am familiar with frontend tech like HTML/CSS/JS, React, and Angular, as well as backend resources such as Django, Flask, Express, and Springboot. I'm also a big Leetcoder and know a lot about common algorithms.
+I have worked at State Farm as a Software Engineer Intern for three summers, and spent a semester as an undergraduate researcher in a joint AI project between Purdue University, where I spent the first year of my undergrad, and Sandia National Labs that aimed to predict irregularities in the destinations of in air flights.
 
-I've worked on a few cool projects, like my 2023 State Farm Hack Day winner bike-tastrophe. Made in collaboration with other State Farm interns, it's an Android App designed to help identify if the user has been in a bike crash and alert authorities. I've also been focused on a contributing to a new system that predicts the destinations of in air flights that is a joint project between Purdue's Data Mine and Sandia National labs.
+When I'm not working on technical related things, I like to spend my time fishing, hiking, cooking, hanging out with friends, or playing video games.
 
-When I'm not coding, I like building things like Legos, golfing, fishing, working out, cooking, hanging out with friends, and more. I strive to create a healthy balance between studies and fun that promotes an interest in both areas.
-
-If you want to reach me, feel free to send me an email at ehimmell@purdue.edu. I'm open to projects, work opportunities, research, and pretty much everything else CS related. I look forward to hearing from you.
-
--Ethan 
+If you have a cool project idea you think I'd like, or just want to chat, feel free to reach out at himmellethan@gmail.com.
